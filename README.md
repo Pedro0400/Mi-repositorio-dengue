@@ -1,7 +1,7 @@
 # Mi-repositorio-dengue
-git clone https://github.com/Pedro0400/diagnostico_dengue.git
-cd diagnostico_dengue
-% diagnostico_dengue.pl
+git clone https://github.com/Pedro0400/Mi-repositorio-dengue.git
+cd Mi-repositorio-dengue
+% Mi-repositorio-dengue.pl
 
 % Hechos sobre síntomas
 sintoma(fiebre).
