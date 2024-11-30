@@ -1,5 +1,5 @@
 # Mi-repositorio-dengue
-git clone https://github.com/tu_usuario/diagnostico_dengue.git
+git clone https://github.com/Pedro0400/diagnostico_dengue.git
 cd diagnostico_dengue
 % diagnostico_dengue.pl
 
