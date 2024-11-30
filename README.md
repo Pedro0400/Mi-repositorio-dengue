@@ -1,6 +1,7 @@
 # Mi-repositorio-dengue
 git clone https://github.com/Pedro0400/Mi-repositorio-dengue.git
 cd Mi-repositorio-dengue
+
 % Mi-repositorio-dengue.pl
 
 % Hechos sobre síntomas
